@@ -151,11 +151,15 @@
 	border-bottom: 50px;
 }
 
-.datos{
-	padding-left: 200px;
-	padding-right: 200px;
-}
 
+
+
+
+.datos{
+	padding-left: 550px;
+	padding-right: 550px;
+	background-color: grey; 
+}
 
 
 

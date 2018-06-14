@@ -1,0 +1,165 @@
+
+.home{
+	background-image: url("../imagen/nube2.jpeg");
+	background-color: #F8FBEF; opacity: 0.7; 
+    background-attachment: fixed;
+
+}
+
+.fixed{
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	z-index: 1;
+}
+.logo1{
+	border-radius: 100%;
+	width:80px;
+}
+
+
+
+.logo33{
+	text-align: center;
+    margin-top: 150px;
+   
+}
+
+.sonrisa{
+    border-radius: 100%;
+	text-align: center;
+	margin-top: 70px;
+	margin-bottom: 30px;
+    
+}
+
+
+.titulo{
+	color: #08298A;
+	text-align: center;
+	font-family: Georgia, serif;
+	margin-top: 30px;
+	text-shadow: 0.2em 0.2em 0.2em black;
+}
+
+.card{
+	margin-top: 50px;
+}
+
+
+
+
+.nosotros{
+	 background-image: url(../imagen/niño-cancer.jpeg); 
+     background-color: #F8FBEF; opacity: 0.7; 
+     background-attachment: fixed;
+}
+
+.somos{
+	margin-top: 30px;
+    text-align: center;   
+	color: #08298A;
+	text-align: center;
+	font-family:Georgia, serif   
+	   }
+.nos{
+	margin-top: 30px;
+    text-align: center;   
+	color: #08298A;
+	text-align: center;
+	font-family:Georgia, serif ;
+    text-shadow: 0.3em 0.3em 0.3em black;   
+}
+
+
+
+
+.coronas{
+	text-align: center;
+	margin-top: 20px;   
+	color: #08298A;
+	text-align: center;
+	font-family:Georgia, serif;
+	text-shadow: 0.3em 0.3em 0.3em black;   
+}
+
+.tarjetas{
+	margin-bottom: 50px;
+	margin-left: 10px;
+}
+.tamaño{
+    text-align: center;
+	margin-top: 50px;   
+	color: #08298A;
+	text-align: center;
+	font-family:Georgia, serif;
+	margin-bottom: 40px;
+}
+
+.formas{
+	text-align: center;
+	margin-top: 50px;   
+	color: #08298A;
+	text-align: center;
+	font-family:Georgia, serif;
+	margin-bottom: 40px;  
+	text-shadow: 0.3em 0.3em 0.3em black;
+}
+
+.aportes{
+	text-align: center;
+	margin-top: 10px;   
+	color: #08298A;
+	text-align: center;
+	font-family:Georgia, serif;   
+}
+
+.noticias{
+	background-image: url(../imagen/sonrisa2.jpeg);
+    background-color: #F8FBEF; opacity: 0.7;
+    background-attachment: fixed;
+}
+
+.futbolito{
+	
+	text-align: center;
+	margin-top: 50px; 
+	margin-bottom: 90px;  
+	color: #08298A;text-align: center;
+	font-family: Georgia, serif ;   
+}
+
+.titular{
+	text-align: center;
+	margin-top: 20px; 
+	margin-bottom: 40px;  
+	color: #08298A;
+	text-align: center;
+	font-family: Georgia, serif;
+	text-shadow: 0.3em 0.3em 0.3em black;
+}
+
+.inauguracion{
+	margin-bottom: 70px;
+	margin-top: 50px;
+	text-align: center;
+	color: #08298A;
+	font-family: Georgia, serif;
+}
+
+.final-sonrisa{
+	border-bottom: 50px;
+}
+
+.datos{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+
+
+
+
+
+
+
